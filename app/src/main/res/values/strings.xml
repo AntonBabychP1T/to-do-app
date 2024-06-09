@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="input_hint">Write some task</string>
+    <string name="add_button">Add task</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="primaryColor">#6200EE</color>
+    <color name="textColor">#000000</color>
+    <color name="hintTextColor">#888888</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dividerColor">#DDDDDD</color>
+</resources>

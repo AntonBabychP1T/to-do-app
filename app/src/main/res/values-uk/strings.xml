@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Список справ</string>
+    <string name="input_hint">Напишить сюди задачу</string>
+    <string name="add_button">Додати</string>
+</resources>
